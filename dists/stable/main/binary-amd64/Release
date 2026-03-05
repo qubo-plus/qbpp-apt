@@ -1,0 +1,5 @@
+Component: main
+Origin: NakanoCS
+Label: QUBO++
+Architecture: amd64
+Description: QUBO++ APT Repository

@@ -1,0 +1,28 @@
+Origin: NakanoCS
+Label: QUBO++
+Codename: stable
+Date: Thu, 05 Mar 2026 23:48:58 UTC
+Architectures: amd64 arm64
+Components: main
+Description: QUBO++ APT Repository
+MD5Sum:
+ 3d7b7761688c6d157c8ac4a99110671c 632 main/binary-amd64/Packages
+ 2a7d7c71bfa75caf6ff45c74f31603aa 450 main/binary-amd64/Packages.gz
+ cb4d27aba3c643d2a9aefa1bf3a4a66d 102 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ 85a919ed21b8ceb23e07ac534ade5ca4 102 main/binary-arm64/Release
+SHA1:
+ ac44d806e8bc277c6a8b0503b289c1fbb5b5a2bf 632 main/binary-amd64/Packages
+ 16bbbae5d1088e1c3ea64eb36eafc88098d1b4ed 450 main/binary-amd64/Packages.gz
+ 10419aad295c352701fa2739530976b74cfbfc0a 102 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ ac140e600212121905f4ea75dc6c1a0eb8862546 102 main/binary-arm64/Release
+SHA256:
+ c0a56ca60cc25a60c2dc7b795fc918b186817a53214154deafc54d6b1b369abb 632 main/binary-amd64/Packages
+ aa9b5973f94bd9210b556bb541737f62da20f5435fb71ac531777afbd3935b95 450 main/binary-amd64/Packages.gz
+ e519bb2a120b5ac7acfc5ba5e11c32725da0ee7c85b2cd1f5c78183dd425e011 102 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ be4e5e42ea994270945f506b1dd8289fed3bc95d17db37fa14667c13eb5270b4 102 main/binary-arm64/Release

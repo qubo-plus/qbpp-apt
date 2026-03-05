@@ -1,0 +1,7 @@
+Origin: NakanoCS
+Label: QUBO++
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: QUBO++ APT Repository
+SignWith: 24C4278016FADE24
