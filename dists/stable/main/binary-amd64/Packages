@@ -1,16 +1,16 @@
 Package: qbpp
-Version: 2026.06.26
-Installed-Size: 223952
+Version: 2026.07.02
+Installed-Size: 226660
 Architecture: amd64
 Maintainer: Koji Nakano <nakano@cs.hiroshima-u.ac.jp>
 Depends: libboost-dev
 Priority: optional
 Section: devel
-Filename: pool/main/q/qbpp/qbpp_2026.06.26_amd64.deb
-Size: 26448084
-SHA256: c7dfdd02156bcff42d5fb88d84b15e3eebbb71a10eb4b59765a691aee7d933e1
-SHA1: c001b0eac726836090488e2109ff674cd875ff39
-MD5sum: 4e5e552f7a30a38d5c93d3c061ed70f7
+Filename: pool/main/q/qbpp/qbpp_2026.07.02_amd64.deb
+Size: 27434136
+SHA256: 4ec8db6c76634d35c93af82e79bc651314994f2df44198f8e1ed0be62c4ffed4
+SHA1: 5ab070c2ac62e122f8d15c9439ddd396a8bf3c21
+MD5sum: 8130c0aca383d5f3862140e5bd705951
 Description: QUBO++ - HUBO/QUBO symbolic computation library
  A C++17 symbolic computation tool (DSL) for generating HUBO/QUBO models.
  Includes EasySolver, ExhaustiveSolver, and ABS3 GPU+CPU Solver.
