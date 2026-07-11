@@ -1,28 +1,28 @@
 Origin: QUBO++
 Label: QUBO++
 Codename: stable
-Date: Thu, 09 Jul 2026 06:55:11 UTC
+Date: Sat, 11 Jul 2026 10:30:25 UTC
 Architectures: amd64 arm64
 Components: main
 Description: QUBO++ APT Repository
 MD5Sum:
- 22da0bb47d26aa5b59cbc76fdcb71454 679 main/binary-amd64/Packages
- 15f76ad175fdba9fba63da063ba294a4 493 main/binary-amd64/Packages.gz
+ e469e639f98cda20816568bfd107bb86 679 main/binary-amd64/Packages
+ ee8673b306b7c4ace9fb30128bba18b0 495 main/binary-amd64/Packages.gz
  b588375f40154856104e8dd2b0b88943 100 main/binary-amd64/Release
- fe5351ef7c72ed2dd3ae2c3899d634be 679 main/binary-arm64/Packages
- bff5811f103291c10e90b381505ab692 493 main/binary-arm64/Packages.gz
+ f6f78cdfdabc7db77477a193e2ab9484 679 main/binary-arm64/Packages
+ 6abe77a9c157442066b33a96aa64e083 494 main/binary-arm64/Packages.gz
  dd63e5a325d5b653f92040bec4d51042 100 main/binary-arm64/Release
 SHA1:
- 4861e2b0d82ef6eba0f789aa4258789c3d2b31be 679 main/binary-amd64/Packages
- c528d5ca6ab12b86dd6c60b1ce77f04e043f302a 493 main/binary-amd64/Packages.gz
+ 8707459c3aafa4db5cded5d5ed1c00af8fdf3de4 679 main/binary-amd64/Packages
+ 548fb09c75a3a46cf82bdd91f04789246a6e16e1 495 main/binary-amd64/Packages.gz
  a0a57becf71f8eec98d5acca358f4e34f91515ea 100 main/binary-amd64/Release
- 6212f94bbf1f18c15ea4dc3eff8beb35a74ee5a6 679 main/binary-arm64/Packages
- 60d82968f6ae4c14443996361a4121d8b54695f5 493 main/binary-arm64/Packages.gz
+ 595992a2d1efeb1900acbb767f22f8215e6d3f4c 679 main/binary-arm64/Packages
+ 17d965facfc6a6727fb09c39e7e04a85adba9933 494 main/binary-arm64/Packages.gz
  0bafbe96f045ffb7d868bd8361a0f24d14dbb526 100 main/binary-arm64/Release
 SHA256:
- 466f62daa0c6025ed17d9acb5e392e740dca09e4b50adf186bea6c0b09c79d51 679 main/binary-amd64/Packages
- b31c7ae51e6a45081bd3f0ca63ad64887519f2a21a30093d98e4492840871efb 493 main/binary-amd64/Packages.gz
+ 1cc03fd8f9862bebbb8ae2cf70791b49eada227472f17d471a57972feed9e1d5 679 main/binary-amd64/Packages
+ 19ba832d9b06fc6d48bca7a2ef8993fcd5a91a04f7a4e32197f1ab548755b69b 495 main/binary-amd64/Packages.gz
  c6ffec3d6531d5cb74ac345647fb0fab44dc3e4cccf692219487dfd75bf5adcf 100 main/binary-amd64/Release
- 9db47d57ff4ee1ae91bbeaf5839defd3b8a4a8c9c150c3c61ef89069fa30e30e 679 main/binary-arm64/Packages
- 07a9cbc787dfa1cdeee6ab32c17bf9ae7dbfd9a5c0048ff3fb041feb481a4779 493 main/binary-arm64/Packages.gz
+ c16102b5fa37ffe58baf895b8904089a1d9715dbf77f13eaa3d7d6adf44bd799 679 main/binary-arm64/Packages
+ 209faff71c3cef520e04e7f2070501a1de5ae0c6fe400e18c5ee41709f60898c 494 main/binary-arm64/Packages.gz
  2873eb2a21755e4fe1375f14a0e67d574ff65e6a03b77f182c872161d936ccfe 100 main/binary-arm64/Release
