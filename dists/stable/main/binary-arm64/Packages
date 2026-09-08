@@ -17,18 +17,18 @@ Description: QUBO++ - HUBO/QUBO symbolic computation library
  Python bindings available separately via: pip install pyqbpp
 
 Package: qbpp-abs2
-Version: 2026.9.3
-Installed-Size: 42144
+Version: 2026.09.08
+Installed-Size: 291136
 Architecture: arm64
 Maintainer: Koji Nakano <nakano@cs.hiroshima-u.ac.jp>
-Depends: qbpp (>= 2026.9.3)
+Depends: qbpp (>= 2026.09.08)
 Priority: optional
 Section: devel
-Filename: pool/main/q/qbpp-abs2/qbpp-abs2_2026.9.3_arm64.deb
-Size: 2082062
-SHA256: e91d283f627d73599749c661297da13618af2374db4ede65ff925f2e5d3136ed
-SHA1: 21411a804b81fdb3a9e0fe7d8ea2d8690d087e4d
-MD5sum: 4613842bf1c4e10aeb9be0ce73ed73da
+Filename: pool/main/q/qbpp-abs2/qbpp-abs2_2026.09.08_arm64.deb
+Size: 9677468
+SHA256: baf0c577b2e42b3eb2429bd14c5106efdcfecce46ddb2c9f3fedcb18d35a8dd4
+SHA1: 5bf9c0d20b77d15950918dd3f7062de2b247a048
+MD5sum: 14e3fc02b7106ce5f11d63c9ea947fd6
 Description: ABS2 GPU QUBO solver plugin for QUBO++ (unofficial)
  A GPU-only QUBO solver that predates ABS3. On dense QUBO problems it
  sometimes outperforms ABS3.
